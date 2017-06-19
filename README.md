@@ -1,6 +1,8 @@
 # VVideoBackground
 Android SurfaceView to use Video as a background
 
+[![](https://jitpack.io/v/vrjgamer/VVideoBackground.svg)](https://jitpack.io/#vrjgamer/VVideoBackground)
+
 VVideoBackground provides a very simple way to add a video background that you might have seen in some of the Apps such as OnvoTV, Ragam 17 etc. VVideoBackground works as an independent android element without interfering in any other views. 
 
 ![Demo](https://github.com/vrjgamer/VVideoBackground/blob/master/demo.gif)
@@ -26,28 +28,28 @@ Add it in your root build.gradle at the end of repositories:
     
 * Step 2. Add the dependency
 ```
-      dependencies {
-    	        compile 'com.github.vrjgamer:VImageButtonView:1.0'
-    	}
+     dependencies {
+	        compile 'com.github.vrjgamer:VVideoBackground:v1.0'
+	}
 ```
 ###  People using maven
 * Step 1. Add the JitPack repository to your build file
 ```
       <repositories>
-    		<repository>
-    		    <id>jitpack.io</id>
-    		    <url>https://jitpack.io</url>
-    		</repository>
-    	</repositories>
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
+	</repositories>
     
 ```
 * Step 2. Add the dependency
 ```
-      <dependency>
-    	    <groupId>com.github.vrjgamer</groupId>
-    	    <artifactId>VImageButtonView</artifactId>
-    	    <version>1.0</version>
-    	</dependency>
+     <dependency>
+	    <groupId>com.github.vrjgamer</groupId>
+	    <artifactId>VVideoBackground</artifactId>
+	    <version>v1.0</version>
+	</dependency>
 ```
 
 ### How To Use: 

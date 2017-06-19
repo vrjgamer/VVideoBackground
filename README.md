@@ -53,7 +53,7 @@ Add it in your root build.gradle at the end of repositories:
 ### How To Use: 
 * Firstly, create a raw folder in your res folder and add your video file (recommended [format:mp4, resolution: 720x1280])
 
-![Demo](https://github.com/vrjgamer/VVideoBackground/blob/master/demo.gif)
+![](https://github.com/vrjgamer/VVideoBackground/blob/master/raw_folder.PNG)
 
 * Add VVideoBackground element to your xml layout
 ```
